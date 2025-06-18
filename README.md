@@ -229,9 +229,10 @@ Networking & Diagnostics
   </a>
 
   <!-- wget Badge -->
-  <a href="https://man7.org/linux/man-pages/man1/wget.1.html" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/wget-Command-Line%20Downloader-blue" alt="wget Badge">
-  </a>
+<a href="https://man7.org/linux/man-pages/man1/wget.1.html" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/wget-Downloader-blue" alt="wget Badge">
+</a>
+
 
   <!-- curl Badge -->
   <a href="https://curl.se/docs/" target="_blank" rel="noopener noreferrer">
