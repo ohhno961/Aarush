@@ -13,7 +13,7 @@ Skills
 IT Support & Administration Skills
 | Skill                                                       | Associated Project                                                   | 
 |-------------------------------------------------------------|----------------------------------------------------------------------|
-| IT Service Management & Ticketing                           |<a href="https://google.com">IT Ticketing System Project</a>|
+| IT Service Management & Ticketing                           |<a href="https://github.com/ohhno961/IT-Ticketing-System-Project">IT Ticketing System Project</a>|
 |                                                             |
 | Active Directory & User Management                          | <a href="https://google.com">Active Directory & User Management</a>|                  |                                                             |
 | Group Policy Management                                     |  <a href="https://google.com">Group Policy Management</a>|                            |                                                             |
@@ -40,5 +40,7 @@ Certifications
 
     
 Projects
-Detection Lab
+
+<a href="https://github.com/ohhno961/IT-Ticketing-System-Project">IT Ticketing System Project</a>
+
 SOC Automation Project
