@@ -50,10 +50,30 @@ SIEM
 
 Threat Detection & Network Analysis
 <!-- Wireshark Badge -->
-<img src="https://img.shields.io/badge/Wireshark-Deep%20Packet%20Inspection-blueviolet" alt="Wireshark Badge">                    <img src="https://img.shields.io/badge/Nmap-Port%20Scanning%20%7C%20Network%20Discovery-darkblue" alt="Nmap Badge">
-<img src="https://img.shields.io/badge/TCPDump-CLI%20Packet%20Capture-lightgrey" alt="TCPDump Badge">
-<img src="https://img.shields.io/badge/Suricata-Network%20IDS%20%7C%20Detection%20Lab%20%2F%20THM-red" alt="Suricata Badge">
-<img src="https://img.shields.io/badge/Snort-Network%20Intrusion%20Detection-pink" alt="Snort Badge">
+<a href="https://www.wireshark.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Wireshark-Deep%20Packet%20Inspection-blueviolet" alt="Wireshark Badge">
+</a>
+
+<!-- Nmap Badge -->
+<a href="https://nmap.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Nmap-Port%20Scanning%20%7C%20Network%20Discovery-darkblue" alt="Nmap Badge">
+</a>
+
+<!-- TCPDump Badge -->
+<a href="https://www.tcpdump.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/TCPDump-CLI%20Packet%20Capture-lightgrey" alt="TCPDump Badge">
+</a>
+
+<!-- Suricata Badge -->
+<a href="https://suricata.io/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Suricata-Network%20IDS%20%7C%20Detection%20Lab%20%2F%20THM-red" alt="Suricata Badge">
+</a>
+
+<!-- Snort Badge -->
+<a href="https://www.snort.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Snort-Network%20Intrusion%20Detection-pink" alt="Snort Badge">
+</a>
+
 
 
 
