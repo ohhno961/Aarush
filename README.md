@@ -394,10 +394,66 @@ Threat Detection & Network Analysis
   
 Certifications
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+  <!-- IT Help Desk for Beginners - LinkedIn -->
+  <a href="https://www.linkedin.com/learning/it-help-desk-for-beginners" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/IT%20Help%20Desk-LinkedIn-blue" alt="IT Help Desk Badge">
+  </a>
+
+  <!-- Networking Basics - Cisco -->
+  <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Networking%20Basics-Cisco-red" alt="Cisco Networking Basics Badge">
+  </a>
+
+  <!-- Generative AI: Intro and Applications - IBM -->
+  <a href="https://www.coursera.org/learn/generative-ai-introduction-applications" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Generative%20AI-IBM-lightblue" alt="IBM Generative AI Badge">
+  </a>
+
+  <!-- Palo Alto Cybersecurity Foundation -->
+  <a href="https://www.paloaltonetworks.com/services/education/cybersecurity-academy" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Palo%20Alto-Cybersecurity%20Foundation-orange" alt="Palo Alto Cybersecurity Foundation Badge">
+  </a>
+
+  <!-- IBM Gen AI for Cybersecurity Professionals -->
+  <a href="https://www.ibm.com/training/course/ai-for-cybersecurity" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/IBM-Gen%20AI%20Cybersecurity-green" alt="IBM Gen AI Cybersecurity Badge">
+  </a>
+
+  <!-- Advanced Network Security - LearnQuest -->
+  <a href="https://www.learnquest.com/certifications/advanced-network-security" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Advanced%20Network%20Security-LearnQuest-purple" alt="LearnQuest Advanced Network Security Badge">
+  </a>
+
+  <!-- Google Cybersecurity Professional Certificate -->
+  <a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional-red" alt="Google Cybersecurity Pro Badge">
+  </a>
+
+  <!-- Palo Alto Networks Cybersecurity Professional Certificate -->
+  <a href="https://www.paloaltonetworks.com/services/education/cybersecurity-professional-certification" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Palo%20Alto-Cybersecurity%20Professional-orange" alt="Palo Alto Cybersecurity Pro Badge">
+  </a>
+
+  <!-- Google IT Support Professional Certificate -->
+  <a href="https://www.coursera.org/professional-certificates/google-it-support" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Google-IT%20Support-blue" alt="Google IT Support Badge">
+  </a>
+
+  <!-- Python for Cybersecurity Specialization -->
+  <a href="https://www.coursera.org/specializations/python-for-cybersecurity" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Python-Cybersecurity%20Specialization-yellow" alt="Python Cybersecurity Badge">
+  </a>
+
+</div>
+
 
     
 Projects
 
 <a href="https://github.com/ohhno961/IT-Ticketing-System-Project">IT Ticketing System Project</a>
+
 <a href="https://github.com/ohhno961/Active-Directory-User-Management">Active Directory & User Management</a>
+
 <a href="https://github.com/ohhno961/Linux--System--Administration----Network--Diagnostics-Projects">Linux System Administration</a>
