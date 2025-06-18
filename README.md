@@ -29,7 +29,6 @@ Cybersecurity Skills
 | Incident Response & Case Management                         | SOC Automation Lab
 | Threat Hunting & Security Scripting                         | ThreatIntel----DFIR--Lab
 | Digital Forensics & Threat Investigation                    | <a href="https://github.com/ohhno961/ThreatIntel----DFIR--Lab/tree/main/Digital%20Forensics%20%26%20Threat%20Investigation">ThreatIntel----DFIR--Lab</a> |
-
 | Web App Pentesting                                          | OWASP Juice Shop
 | Virtual Security Operations Experience                      | Forage Virtual Job Simulations   
 
