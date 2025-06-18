@@ -27,8 +27,8 @@ Cybersecurity Skills
 | Network Traffic Monitoring & Attack Detection               | Detection Lab
 | Security Automation with SOAR                               | SOC Automation Lab
 | Incident Response & Case Management                         | SOC Automation Lab
-| Threat Hunting & Security Scripting                         | Challenges 
-| Digital Forensics & Threat Investigation                    | Challenges
+| Threat Hunting & Security Scripting                         | ThreatIntel----DFIR--Lab
+| Digital Forensics & Threat Investigation                    | ThreatIntel----DFIR--Lab
 | Web App Pentesting                                          | OWASP Juice Shop
 | Virtual Security Operations Experience                      | Forage Virtual Job Simulations   
 
