@@ -15,14 +15,10 @@ IT Support & Administration Skills
 |-------------------------------------------------------------|----------------------------------------------------------------------|
 | IT Service Management & Ticketing                           |<a href="https://github.com/ohhno961/IT-Ticketing-System-Project">IT Ticketing System Project</a>|
 |                                                             |
-| Active Directory & User Management                          | <a href="https://google.com">Active Directory & User Management</a>|                  |                                                             |
-| Group Policy Management                                     |  <a href="https://google.com">Group Policy Management</a>|                            |                                                             |
-| Linux System Administration                                 |<a href="https://google.com">Linux System Administration</a>|
-|                                                             |
-|Network Connectivity & Diagnostics                           |<a href="https://google.com">Network Connectivity & Diagnostics</a>|
-|                                                             |
-|DNS Management & Troubleshooting                             | <a href="https://google.com">DNS Management & Troubleshooting</a>|                    |                                                             |
-|File Transfer & System Operations                            |  <a href="https://google.com">File Transfer & System Operations</a>|    
+| Active Directory & User Management                          | <a href="https://github.com/ohhno961/Active-Directory-User-Management">Active Directory & User Management</a>|                  |                                                             |
+                                                               |                                                             |
+| Linux System Administration & Network Connectivity & Diagnostics                               |<a href="https://github.com/ohhno961/Linux--System--Administration----Network--Diagnostics-Projects">Linux System Administration</a>|
+|                                                             |  
 
 
 Cybersecurity Skills
