@@ -23,7 +23,7 @@ IT Support & Administration Skills
 Cybersecurity Skills
 | Skills                                                      | Associated Project                                                       |
 |-------------------------------------------------------------|--------------------------------------------------------------------------|
-| SIEM Implementation & Log Analysis                          | Detection Lab
+| SIEM Implementation & Log Analysis                          | <a href="https://github.com/ohhno961/Detection---Lab/tree/main/SIEM%20Implementation%20%26%20Log%20Analysis">Detection Lab</a> |
 | Network Traffic Monitoring & Attack Detection               | Detection Lab
 | Security Automation with SOAR                               | SOC Automation Lab
 | Incident Response & Case Management                         | SOC Automation Lab
