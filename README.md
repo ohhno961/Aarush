@@ -23,6 +23,22 @@ IT Support & Administration Skills
 |                                                             |
 |DNS Management & Troubleshooting                             | <a href="https://google.com">DNS Management & Troubleshooting</a>|                    |                                                             |
 |File Transfer & System Operations                            |  <a href="https://google.com">File Transfer & System Operations</a>|                                       
+Cybersecurity Skills
+| Skills                                                      | Associated Project                                                       |
+|-------------------------------------------------------------|--------------------------------------------------------------------------|
+| SIEM Implementation & Log Analysis 
+| Network Traffic Monitoring & Attack Detection
+| Security Automation with SOAR   
+| Incident Response & Case Management    
+| Threat Hunting & Security Scripting    
+| Digital Forensics & Threat Investigation  
+| Web App Pentesting     
+| Virtual Security Operations Experience 
+
+
+
+
+
 
 Tools
 
