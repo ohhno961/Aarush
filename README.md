@@ -390,10 +390,6 @@ Threat Detection & Network Analysis
   <img src="https://img.shields.io/badge/Snort-Network%20Intrusion%20Detection-pink" alt="Snort Badge">
 </a>
 
-
-
-
-Offensive
   
 Certifications
 
@@ -402,5 +398,5 @@ Certifications
 Projects
 
 <a href="https://github.com/ohhno961/IT-Ticketing-System-Project">IT Ticketing System Project</a>
-
-SOC Automation Project
+<a href="https://github.com/ohhno961/Active-Directory-User-Management">Active Directory & User Management</a>
+<a href="https://github.com/ohhno961/Linux--System--Administration----Network--Diagnostics-Projects">Linux System Administration</a>
