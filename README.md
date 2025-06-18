@@ -45,6 +45,9 @@ Network
 Endpoint
  
 SIEM
+<!-- Splunk Badge -->
+<img src="https://img.shields.io/badge/Splunk-Log%20Parsing%20%7C%20Correlation%20%7C%20Dashboard-blue" alt="Splunk Badge">     <img src="https://img.shields.io/badge/Zeek-Network%20Monitoring-yellow" alt="Zeek Badge">        <img src="https://img.shields.io/badge/Sysmon-Windows%20Event%20Logging-orange" alt="Sysmon Badge">        <img src="https://img.shields.io/badge/Event%20Viewer-Native%20Windows%20Log%20Viewer-lightgrey" alt="Event Viewer Badge">        <img src="https://img.shields.io/badge/Sigma-Detection%20Rules-green" alt="Sigma Badge">        <img src="https://img.shields.io/badge/Sigma2Splunk-Rule%20Translation-brightgreen" alt="Sigma2Splunk Badge">        <img src="https://img.shields.io/badge/Graylog-Log%20Aggregation%20%7C%20Alerting-purple" alt="Graylog Badge">
+
 
 Offensive
   
