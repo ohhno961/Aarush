@@ -22,18 +22,20 @@ IT Support & Administration Skills
 |Network Connectivity & Diagnostics                           |<a href="https://google.com">Network Connectivity & Diagnostics</a>|
 |                                                             |
 |DNS Management & Troubleshooting                             | <a href="https://google.com">DNS Management & Troubleshooting</a>|                    |                                                             |
-|File Transfer & System Operations                            |  <a href="https://google.com">File Transfer & System Operations</a>|                                       
+|File Transfer & System Operations                            |  <a href="https://google.com">File Transfer & System Operations</a>|    
+
+
 Cybersecurity Skills
 | Skills                                                      | Associated Project                                                       |
 |-------------------------------------------------------------|--------------------------------------------------------------------------|
-| SIEM Implementation & Log Analysis 
-| Network Traffic Monitoring & Attack Detection
-| Security Automation with SOAR   
-| Incident Response & Case Management    
-| Threat Hunting & Security Scripting    
-| Digital Forensics & Threat Investigation  
-| Web App Pentesting     
-| Virtual Security Operations Experience 
+| SIEM Implementation & Log Analysis                          | Detection Lab
+| Network Traffic Monitoring & Attack Detection               | Detection Lab
+| Security Automation with SOAR                               | SOC Automation Lab
+| Incident Response & Case Management                         | SOC Automation Lab
+| Threat Hunting & Security Scripting                         | Challenges 
+| Digital Forensics & Threat Investigation                    | Challenges
+| Web App Pentesting                                          | OWASP Juice Shop
+| Virtual Security Operations Experience                      | Forage Virtual Job Simulations   
 
 
 
