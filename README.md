@@ -397,34 +397,36 @@ Certifications
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
   <!-- IT Help Desk for Beginners - LinkedIn -->
-  <a href="https://www.linkedin.com/learning/it-help-desk-for-beginners" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/IT%20Help%20Desk-LinkedIn-blue" alt="IT Help Desk Badge">
-  </a>
+ <a href="https://www.linkedin.com/learning/certificates/153baf873ee2579fb91f2f9789607f330639eb36dd0b09bda06b100032c06146?accountId=51086649&u=51086649&success=true&authUUID=72rJXvS9QaKaUkY3tkpfBg%3D%3D" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/IT%20Help%20Desk-LinkedIn-blue" alt="IT Help Desk Badge">
+</a>
 
   <!-- Networking Basics - Cisco -->
-  <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Networking%20Basics-Cisco-red" alt="Cisco Networking Basics Badge">
-  </a>
+ <a href="https://www.credly.com/badges/063ab700-88ac-4420-bf8f-cf69d6d0c779/linked_in_profile" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Networking%20Basics-Cisco-red" alt="Cisco Networking Basics Badge">
+</a>
 
   <!-- Generative AI: Intro and Applications - IBM -->
-  <a href="https://www.coursera.org/learn/generative-ai-introduction-applications" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Generative%20AI-IBM-lightblue" alt="IBM Generative AI Badge">
-  </a>
+ <a href="https://www.coursera.org/account/accomplishments/verify/D95WDD5H19A7" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Generative%20AI-IBM-lightblue" alt="IBM Generative AI Badge">
+</a>
 
   <!-- Palo Alto Cybersecurity Foundation -->
-  <a href="https://www.paloaltonetworks.com/services/education/cybersecurity-academy" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Palo%20Alto-Cybersecurity%20Foundation-orange" alt="Palo Alto Cybersecurity Foundation Badge">
-  </a>
+ <a href="https://www.coursera.org/account/accomplishments/verify/Q7QY2XLIULY4" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Palo%20Alto-Cybersecurity%20Foundation-orange" alt="Palo Alto Cybersecurity Foundation Badge">
+</a>
+
 
   <!-- IBM Gen AI for Cybersecurity Professionals -->
-  <a href="https://www.ibm.com/training/course/ai-for-cybersecurity" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/IBM-Gen%20AI%20Cybersecurity-green" alt="IBM Gen AI Cybersecurity Badge">
-  </a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/RJT9X9OM4245" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/IBM-Gen%20AI%20Cybersecurity-green" alt="IBM Gen AI Cybersecurity Badge">
+</a>
 
   <!-- Advanced Network Security - LearnQuest -->
-  <a href="https://www.learnquest.com/certifications/advanced-network-security" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Advanced%20Network%20Security-LearnQuest-purple" alt="LearnQuest Advanced Network Security Badge">
-  </a>
+ <a href="https://www.learnquest.com/certifications/advanced-network-security" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Advanced%20Network%20Security-LearnQuest-purple" alt="LearnQuest Advanced Network Security Badge">
+</a>
+
 
   <!-- Google Cybersecurity Professional Certificate -->
   <a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank" rel="noopener noreferrer">
