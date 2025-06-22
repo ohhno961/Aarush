@@ -25,7 +25,8 @@ Cybersecurity Skills
 |-------------------------------------------------------------|--------------------------------------------------------------------------|
 | SIEM Implementation & Log Analysis                          | <a href="https://github.com/ohhno961/Detection---Lab/tree/main/SIEM%20Implementation%20%26%20Log%20Analysis">Detection Lab</a> |
 | Network Traffic Monitoring & Attack Detection               | Detection Lab
-| Security Automation with SOAR                               | SOC Automation Lab
+| Security Automation with SOAR                               | <a href="https://github.com/ohhno961/SOC--Automation--Lab/tree/main/Security-%20Automation-%20with-%20SOAR" target="_blank">SOC Automation Lab</a>
+|                                                             |
 | Incident Response & Case Management                         | SOC Automation Lab
 | Threat Hunting & Security Scripting                         | ThreatIntel----DFIR--Lab
 | Digital Forensics & Threat Investigation                    | <a href="https://github.com/ohhno961/ThreatIntel----DFIR--Lab/tree/main/Digital%20Forensics%20%26%20Threat%20Investigation">ThreatIntel----DFIR--Lab</a> |
