@@ -18,12 +18,6 @@ IT Support & Administration Skills
 | Active Directory & User Management         | <a href="https://github.com/ohhno961/Active-Directory-User-Management">Active Directory & User Management</a>| 
 | Linux System Administration & Network Connectivity & Diagnostics                               |<a href="https://github.com/ohhno961/Linux--System--Administration----Network--Diagnostics-Projects">Linux System Administration</a>|
 
- Cloud Infrastructure & Automation (IaC) skills
- | Skills                                                          | Associated Project                                                       |
- |-----------------------------------------------------------------|--------------------------------------------------------------------------|
- |Terraform State & Variable Management                            |
-                                                               
-
 
 Cybersecurity Skills
 | Skills                                                      | Associated Project                                                       |
