@@ -17,7 +17,7 @@ IT Support & Administration Skills
 |                                                             |
 | Active Directory & User Management         | <a href="https://github.com/ohhno961/Active-Directory-User-Management">Active Directory & User Management</a>| 
 | Linux System Administration & Network Connectivity & Diagnostics                               |<a href="https://github.com/ohhno961/Linux--System--Administration----Network--Diagnostics-Projects">Linux System Administration</a>|
-
+| Windows System Administration/ Storage Management           |
 
 Cybersecurity Skills
 | Skills                                                      | Associated Project                                                       |
