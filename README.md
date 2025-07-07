@@ -33,13 +33,10 @@ Cybersecurity Skills
 | Virtual Security Operations Experience                      | Forage Virtual Job Simulations   
 
 
-
-
-
-
-Tools
+<br>
+Tools <br><br>
 System Administration
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<br>
 
   <!-- Windows Server Badge -->
   <a href="https://learn.microsoft.com/en-us/windows-server/" target="_blank" rel="noopener noreferrer">
@@ -77,9 +74,14 @@ System Administration
   </a>
 
 </div>
-
+<br><br>
 IT Service Management & Ticketing
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<!-- Jira Badge -->
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Jira-Project%20Management-blue" alt="Jira Badge">
+</a>
+
 
   <!-- GLPI Badge -->
   <a href="https://glpi-project.org/" target="_blank" rel="noopener noreferrer">
@@ -112,7 +114,7 @@ IT Service Management & Ticketing
   </a>
 
 </div>
-
+<br>
 Linux System Administration
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -173,7 +175,7 @@ Linux System Administration
   </a>
 
 </div>
-
+<br>
 Networking & Diagnostics
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -240,7 +242,7 @@ Networking & Diagnostics
   </a>
 
 </div>
-
+<br>
 Scripting & Automation 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -262,7 +264,7 @@ Scripting & Automation
 
 </div>
 
-  
+<br>  
 Endpoint
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
@@ -323,7 +325,7 @@ Endpoint
 
 </div>
 
- 
+<br> 
 SIEM
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
@@ -364,7 +366,7 @@ SIEM
 
 </div>
 
-
+<br>
 Threat Detection & Network Analysis
 <!-- Wireshark Badge -->
 <a href="https://www.wireshark.org/" target="_blank" rel="noopener noreferrer">
@@ -390,8 +392,7 @@ Threat Detection & Network Analysis
 <a href="https://www.snort.org/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Snort-Network%20Intrusion%20Detection-pink" alt="Snort Badge">
 </a>
-
-  
+<br> <br>
 Certifications
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -449,13 +450,7 @@ Certifications
   </a>
 
 </div>
+<br>
 
 
     
-Projects
-
-<a href="https://github.com/ohhno961/IT-Ticketing-System-Project">IT Ticketing System Project</a>
-
-<a href="https://github.com/ohhno961/Active-Directory-User-Management">Active Directory & User Management</a>
-
-<a href="https://github.com/ohhno961/Linux--System--Administration----Network--Diagnostics-Projects">Linux System Administration</a>
