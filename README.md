@@ -31,6 +31,9 @@ Cybersecurity Skills
 | Digital Forensics & Threat Investigation                    | <a href="https://github.com/ohhno961/ThreatIntel----DFIR--Lab/tree/main/Digital%20Forensics%20%26%20Threat%20Investigation">ThreatIntel----DFIR--Lab</a> |
 | Web App Pentesting                                          | OWASP Juice Shop
 | Virtual Security Operations Experience                      | Forage Virtual Job Simulations   
+| SOC Queries and Automation Snippets                         | <a href="https://github.com/ohhno961/Queries_and_Programming_Languages" target="_blank"> Queries and Programming Languages</a>|
+
+
 
 
 <br>
