@@ -23,7 +23,8 @@ Cybersecurity Skills
 | Skills                                                      | Associated Project                                                       |
 |-------------------------------------------------------------|--------------------------------------------------------------------------|
 | SIEM Implementation & Log Analysis                          | <a href="https://github.com/ohhno961/Detection---Lab/tree/main/SIEM%20Implementation%20%26%20Log%20Analysis">Detection Lab</a> |
-| Network Traffic Monitoring & Attack Detection               | Detection Lab
+| Network Traffic Monitoring & Attack Detection               | <a href="https://github.com/ohhno961/Detection---Lab/tree/main/Network%20Traffic%20Monitoring%20&%20Attack%20Detection" target="_blank">Network Traffic Monitoring & Attack Detection Project
+</a>|
 | Security Automation with SOAR                               | <a href="https://github.com/ohhno961/SOC--Automation--Lab/tree/main/Security-%20Automation-%20with-%20SOAR" target="_blank">SOC Automation Lab</a>
 | Vulnerability Management & Remediation                      | <a href="https://github.com/ohhno961/Vulnerability-Management-Remediation" target="_blank" rel="noopener noreferrer">Vulnerability Management & Remediation</a>                                      |
 | Incident Response & Case Management                         | SOC Automation Lab
