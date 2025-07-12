@@ -1,15 +1,28 @@
-Hello, I'm Aarush
+👋 Hi, I’m Aarush — Future SOC Asset 🔐
 
 <a href="https://www.linkedin.com/in/aarush-nepali-391320329/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-I am a senior Computer Science student with a deep passion for technology and a drive to solve complex real-world problems through innovation and security.
-Objective
+I'm a Computer Science senior (with a concentration in Computer Engineering), a Math minor, and a detective-minded cybersecurity learner who’s dead-set on joining a SOC as a Tier 1 Analyst—and climbing fast. My target? Tier 3 SOC and Digital Forensics within 5–7 years.
 
-My journey through computer science has sparked a strong passion for cybersecurity. I am now focused on transitioning into the field, with a clear goal of joining a Security Operations Center (SOC) as a Tier 1 Analyst to help defend against real-world cyber threats.
+🔎 I love the thrill of tracking down anomalies, investigating digital trails, and stopping threats cold. With a strong foundation in both hardware and software, I approach cybersecurity with a full-stack mindset—from firmware to firewalls.
 
-Skills
+⚙️ I bring serious automation skills (Python, Bash, AI tools) that can slash manual effort and boost team efficiency. I don’t just aim to do my job—I aim to *do the work of five* with smart scripting, clear documentation, and relentless curiosity.
+
+🧠 I'm not just technical. I'm business-aware. I care about reducing cost, minimizing downtime, and delivering security that makes real-world impact.
+
+🧩 I thrive under pressure, especially in high-stakes or chaotic environments. I'm highly extroverted, emotionally sharp, and quick to read people — during incidents, I make sure my teammates stay focused, communicate clearly, and don’t panic. When things go sideways, I lead with clarity and calm.
+
+> “In a sea of alerts, I’m the one who asks why — and doesn’t stop until I find out.”
+
+## 🎯 Current Mission:
+Building hands-on, blue team projects on GitHub to prove my skills publicly. Every commit brings me closer to my SOC seat.
+Let’s talk if you're hiring driven minds, not just resumes.<br><br>
+
+
+
+## Skills<br><br>
 IT Support & Administration Skills
 | Skill                                                       | Associated Project                                                   | 
 |-------------------------------------------------------------|----------------------------------------------------------------------|
