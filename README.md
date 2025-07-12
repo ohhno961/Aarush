@@ -444,9 +444,9 @@ Certifications
   </a>
 
   <!-- Google IT Support Professional Certificate -->
-  <a href="https://www.coursera.org/professional-certificates/google-it-support" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Google-IT%20Support-blue" alt="Google IT Support Badge">
-  </a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/VPYRAGXN9BN3" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Coursera-Linux%20System%20Administration-blue?logo=coursera&logoColor=white" alt="Coursera Linux System Administration Badge">
+</a>
 
   <!-- Python for Cybersecurity Specialization -->
   <a href="https://www.coursera.org/specializations/python-for-cybersecurity" target="_blank" rel="noopener noreferrer">
