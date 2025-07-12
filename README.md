@@ -28,7 +28,7 @@ Cybersecurity Skills
 | Security Automation with SOAR                               | <a href="https://github.com/ohhno961/SOC--Automation--Lab/tree/main/Security-%20Automation-%20with-%20SOAR" target="_blank">SOC Automation Lab</a>
 | Vulnerability Management & Remediation                      | <a href="https://github.com/ohhno961/Vulnerability-Management-Remediation" target="_blank" rel="noopener noreferrer">Vulnerability Management & Remediation</a>                                      |
 | Incident Response & Case Management                         | SOC Automation Lab
-| Threat Hunting & Security Scripting                         | ThreatIntel----DFIR--Lab
+| Threat Hunting & Security Scripting                         | <a href="https://github.com/ohhno961/Threat-Hunting-Security-Scripting" target="_blank">Threat Intel</a>|
 | Digital Forensics & Threat Investigation                    | <a href="https://github.com/ohhno961/ThreatIntel----DFIR--Lab/tree/main/Digital%20Forensics%20%26%20Threat%20Investigation">ThreatIntel----DFIR--Lab</a> |
 | Web App Pentesting                                          | OWASP Juice Shop
 | Virtual Security Operations Experience                      | Forage Virtual Job Simulations   
