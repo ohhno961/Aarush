@@ -46,6 +46,7 @@ Cybersecurity Skills
 | Web App Pentesting                                          | OWASP Juice Shop
 | Virtual Security Operations Experience                      | Forage Virtual Job Simulations   
 | SOC Queries and Automation Snippets                         | <a href="https://github.com/ohhno961/Queries_and_Programming_Languages" target="_blank"> Queries and Programming Languages</a>|
+| Security scripting python                                   | <a href="https://github.com/ohhno961/python-security-automation" target="_blank" rel="noopener noreferrer">python-security-automation</a>|
 
 
 
