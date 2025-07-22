@@ -48,8 +48,10 @@ Cybersecurity Skills
 | SOC Queries and Automation Snippets                         | <a href="https://github.com/ohhno961/Queries_and_Programming_Languages" target="_blank"> Queries and Programming Languages</a>|
 | Security scripting python                                   | <a href="https://github.com/ohhno961/python-security-automation" target="_blank" rel="noopener noreferrer">python-security-automation</a>|
 
-Cloud/DevOps Skills <br> <br>
+Cloud/DevOps Skills <br> 
 | Skills                                                      | Associated Project                                                        |
+|-------------------------------------------------------------|---------------------------------------------------------------------------|
+| Cloud/Devops                                                | <a href="https://github.com/ohhno961/Cloud-DevOps" target="_blank" rel="noopener noreferrer"> Cloud-DevOps Project</a>   |
 
 
 <br>
