@@ -43,7 +43,7 @@ Cybersecurity Skills
 | Incident Response & Case Management                         | SOC Automation Lab
 | Threat Hunting & Security Scripting                         | <a href="https://github.com/ohhno961/Threat-Hunting-Security-Scripting" target="_blank">Threat Intel</a>|
 | Digital Forensics & Threat Investigation                    | <a href="https://github.com/ohhno961/ThreatIntel----DFIR--Lab/tree/main/Digital%20Forensics%20%26%20Threat%20Investigation">ThreatIntel----DFIR--Lab</a> |
-| Web App Pentesting                                          | OWASP Juice Shop
+| Web App Pentesting                                          | <a href="https://github.com/ohhno961/WebAppSec-Lab-OWASP---GSOP--Edition" target="_blank">WebAppSec Lab - OWASP GSOP Edition</a> |
 | Virtual Security Operations Experience                      | Forage Virtual Job Simulations   
 | SOC Queries and Automation Snippets                         | <a href="https://github.com/ohhno961/Queries_and_Programming_Languages" target="_blank"> Queries and Programming Languages</a>|
 | Security scripting python                                   | <a href="https://github.com/ohhno961/python-security-automation" target="_blank" rel="noopener noreferrer">python-security-automation</a>|
