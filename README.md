@@ -47,6 +47,7 @@ Cybersecurity Skills
 | Virtual Security Operations Experience                      | <a href="https://github.com/ohhno961/Forage-Virtual-Job-Simulations" target="_blank">Forage Virtual Job Simulations</a> |
 | SOC Queries and Automation Snippets                         | <a href="https://github.com/ohhno961/Queries_and_Programming_Languages" target="_blank"> Queries and Programming Languages</a>|
 | Security scripting python                                   | <a href="https://github.com/ohhno961/python-security-automation" target="_blank" rel="noopener noreferrer">python-security-automation</a>|
+| Cloud-based Attack Detection & Honeypot Simulation          | 
 
 Cloud/DevOps Skills <br> 
 | Skills                                                      | Associated Project                                                        |
