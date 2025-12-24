@@ -28,9 +28,15 @@ This GitHub reflects hands-on learning and disciplined thinking, and not interna
 
 > “In a sea of alerts, I’m the one who asks why — and doesn’t stop until I find out.”
 
-## 🎯 Current Mission:
-Building hands-on, blue team projects on GitHub to prove my skills publicly. Every commit brings me closer to my SOC seat.
-Let’s talk if you're hiring driven minds, not just resumes.<br><br>
+## 🎯 Current Focus
+
+During academic breaks, I use the extra time to explore offensive security and penetration testing concepts, both theoretical and hands-on, to better understand attacker methodology and improve defensive intuition.
+
+During the academic year, my focus shifts to balancing coursework with security work, so my GitHub activity is more selective and lab-driven rather than high-volume.
+
+For Summer(2026), I’m actively seeking a security or SOC-focused internship where I can work in a new environment, learn unfamiliar tools, and challenge my assumptions as a defender.
+
+Long-term, my goal is to transition into a full-time SOC analyst or IT security role after graduation, continuing to grow toward advanced blue team and DFIR responsibilities.
 
 
 
