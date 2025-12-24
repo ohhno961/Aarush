@@ -22,9 +22,8 @@ Vulnerability analysis and secure system configuration
 
 DFIR-style investigations recreated from public scenarios
 
-I’m deliberate about operational security, ethics, and boundaries. What I publish is intentional, reproducible, and safe to share.
 
-This GitHub reflects hands-on learning and disciplined thinking, and not internal systems or employer work.
+I’m deliberate about operational security, ethics, and boundaries. What I publish is intentional, reproducible, and safe to share. This GitHub reflects hands-on learning and disciplined thinking, and not internal systems or employer work.
 
 > “In a sea of alerts, I’m the one who asks why — and doesn’t stop until I find out.”
 
