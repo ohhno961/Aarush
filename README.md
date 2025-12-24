@@ -1,18 +1,30 @@
-👋 Hi, I’m Aarush — Future SOC Asset 🔐
+👋 Aarush Nepali — Computer Science Senior | Security-Focused 🔐
 
 <a href="https://www.linkedin.com/in/aarush-nepali-391320329/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-I'm a Computer Science senior (with a concentration in Computer Engineering), a Math minor, and a detective-minded cybersecurity learner who’s dead-set on joining a SOC as a Tier 1 Analyst—and climbing fast. My target? Tier 3 SOC and Digital Forensics within 5–7 years.
 
-🔎 I love the thrill of tracking down anomalies, investigating digital trails, and stopping threats cold. With a strong foundation in both hardware and software, I approach cybersecurity with a full-stack mindset—from firmware to firewalls.
 
-⚙️ I bring serious automation skills (Python, Bash, AI tools) that can slash manual effort and boost team efficiency. I don’t just aim to do my job—I aim to *do the work of five* with smart scripting, clear documentation, and relentless curiosity.
+Computer Science senior focused on cybersecurity, systems, and defensive security.
 
-🧠 I'm not just technical. I'm business-aware. I care about reducing cost, minimizing downtime, and delivering security that makes real-world impact.
+This GitHub is a personal workspace for independent security labs, experiments, and tooling. Everything here is built outside of production environments and focuses on understanding how systems fail, how attacks work, and how defenders detect and respond.
 
-🧩 I thrive under pressure, especially in high-stakes or chaotic environments. I'm highly extroverted, emotionally sharp, and quick to read people — during incidents, I make sure my teammates stay focused, communicate clearly, and don’t panic. When things go sideways, I lead with clarity and calm.
+Current areas of focus:
+
+Detection logic and log analysis in lab settings
+
+Security automation using Python, Bash, and PowerShell
+
+Network traffic analysis and endpoint telemetry
+
+Vulnerability analysis and secure system configuration
+
+DFIR-style investigations recreated from public scenarios
+
+I’m deliberate about operational security, ethics, and boundaries. What I publish is intentional, reproducible, and safe to share.
+
+This GitHub reflects hands-on learning and disciplined thinking, and not internal systems or employer work.
 
 > “In a sea of alerts, I’m the one who asks why — and doesn’t stop until I find out.”
 
