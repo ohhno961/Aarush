@@ -33,7 +33,6 @@ During academic breaks, I use the extra time to explore offensive security and p
 
 During the academic year, my focus shifts to balancing coursework with security work, so my GitHub activity is more selective and lab-driven rather than high-volume.
 
-For Summer(2026), I’m actively seeking a security or SOC-focused internship where I can work in a new environment, learn unfamiliar tools, and challenge my assumptions as a defender.
 
 Long-term, my goal is to transition into a full-time SOC analyst or IT security role after graduation, continuing to grow toward advanced blue team and DFIR responsibilities.
 
