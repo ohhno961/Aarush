@@ -1,45 +1,7 @@
-👋 Aarush Nepali — SOC Analyst
-
-<a href="https://www.linkedin.com/in/aarush--soc-analyst/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
 
 
-
-Computer Science senior focused on cybersecurity, systems, and defensive security.
-
-This GitHub is a personal workspace for independent security labs, experiments, and tooling. Everything here is built outside of production environments and focuses on understanding how systems fail, how attacks work, and how defenders detect and respond.
-
-Current areas of focus:
-
-Detection logic and log analysis in lab settings
-
-Security automation using Python, Bash, and PowerShell
-
-Network traffic analysis and endpoint telemetry
-
-Vulnerability analysis and secure system configuration
-
-DFIR-style investigations recreated from public scenarios
-
-
-I’m deliberate about operational security, ethics, and boundaries. What I publish is intentional, reproducible, and safe to share. This GitHub reflects hands-on learning and disciplined thinking, and not internal systems or employer work.
-
-> “In a sea of alerts, I’m the one who asks why — and doesn’t stop until I find out.”
-
-## 🎯 Current Focus
-
-During academic breaks, I use the extra time to explore offensive security and penetration testing concepts, both theoretical and hands-on, to better understand attacker methodology and improve defensive intuition.
-
-During the academic year, my focus shifts to balancing coursework with security work, so my GitHub activity is more selective and lab-driven rather than high-volume.
-
-
-Long-term, my goal is to transition into a full-time SOC analyst or IT security role after graduation, continuing to grow toward advanced blue team and DFIR responsibilities.
-
-
-
-## Skills<br><br>
-IT Support & Administration Skills
+# Skills<br><br>
+# IT Support & Administration Skills
 | Skill                                                       | Associated Project                                                   | 
 |-------------------------------------------------------------|----------------------------------------------------------------------|
 | IT Service Management & Ticketing                           |<a href="https://github.com/ohhno961/IT-Ticketing-System-Project">IT Ticketing System Project</a><br><a href="https://github.com/ohhno961/Jira-Agile-Project-Management">Jira Agile Project Management</a>                                                                          
@@ -48,7 +10,7 @@ IT Support & Administration Skills
 | Windows System Administration/ Storage Management           | <a href="https://github.com/ohhno961/Windows-System-Administration-Storage-Management" target="_blank">Windows System Admin & Disk Management</a>
 
 
-Cybersecurity Skills
+# Cybersecurity Skills
 | Skills                                                      | Associated Project                                                       |
 |-------------------------------------------------------------|--------------------------------------------------------------------------|
 | SIEM Implementation & Log Analysis                          | <a href="https://github.com/ohhno961/Detection---Lab/tree/main/SIEM%20Implementation%20%26%20Log%20Analysis">Detection Lab</a> |
@@ -66,14 +28,37 @@ Cybersecurity Skills
 | Cloud-based Attack Detection & Honeypot Simulation          | <a href="https://github.com/ohhno961/Cloud-based-Attack-Detection-Honeypot-Simulation" target="_blank">Cloud-based Attack Detection & Honeypot Simulation</a>|
 
 
-Cloud/DevOps Skills <br> 
+# Cloud/DevOps Skills <br> 
 | Skills                                                      | Associated Project                                                        |
 |-------------------------------------------------------------|---------------------------------------------------------------------------|
 | Cloud/Devops                                                | <a href="https://github.com/ohhno961/Cloud-DevOps" target="_blank" rel="noopener noreferrer"> Cloud-DevOps Project</a>   |
 
+<br>
+
+# 👋 Aarush Nepali — SOC Analyst
+
+<a href="https://www.linkedin.com/in/aarush--soc-analyst/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
+
+
+Computer Science senior focused on cybersecurity, systems, and defensive security.
+
+This GitHub is a personal workspace for independent security labs, experiments, and tooling. Everything here is built outside of production environments and focuses on understanding how systems fail, how attacks work, and how defenders detect and respond.
+
+I’m deliberate about operational security, ethics, and boundaries. What I publish is intentional, reproducible, and safe to share. This GitHub reflects hands-on learning and disciplined thinking, and not internal systems or employer work.
+
+> “In a sea of alerts, I’m the one who asks why — and doesn’t stop until I find out.”
+
+## 🎯 Current Focus
+
+I am currently exploring the architecture of AI agents and Large Language Models (LLMs). By building these agents from the ground up, I aim to map their unique attack surfaces and research GenAI-specific threats—including prompt injection, data poisoning, and model evasion—to develop robust defensive countermeasures and secure future AI-integrated systems.
 
 <br>
-Tools <br><br>
+
+## Tools 
+
 System Administration
 <br>
 
